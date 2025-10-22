@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Henrique👋
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🧑🏿‍💻 Técnico em Análise e Desenvolvimento de Sistemas
 - 📧 Email para contato: hlinhares453@gmail.com
 - 💼 A procura de oportunidades de estágio
 
