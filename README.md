@@ -3,7 +3,6 @@
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🧑🏿‍💻 Técnico em Análise e Desenvolvimento de Sistemas
 - 📧 Email para contato: hlinhares453@gmail.com
-- 💼 A procura de oportunidades de estágio
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/henrique-linhares-393202270/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlinhares453@gmail.com)
