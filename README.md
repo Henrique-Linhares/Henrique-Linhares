@@ -13,7 +13,7 @@
 ##
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Linhares&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Linhares&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Linhares&layout=compact&theme=darksize_weight=0.5&count_weight=0.5)
 
 ##
 <div style="display: inline-block"><br>
