@@ -9,6 +9,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.linhares_/)
 
 ##
+<h1>Tecnologias</h1>
 <div style="display: inline-block"><br>
     <img align= "center" slt= "Henrique-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align= "center" slt= "Henrique-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg">
