@@ -8,13 +8,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlinhares453@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.linhares_/)
 
-	
-
-##
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Linhares&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Linhares&layout=compact&theme=dark)
-
 ##
 <div style="display: inline-block"><br>
     <img align= "center" slt= "Henrique-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
