@@ -10,7 +10,7 @@
 
 ##
 ### Tecnologias
-<div style="display: inline-block"><br>
+<div style="display: flex"><br>
     <img align= "center" slt= "Henrique-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align= "center" slt= "Henrique-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg">
     <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
