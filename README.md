@@ -11,7 +11,7 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 
 ---
 
-### Stacks que mais utilizo
+### Tecnologias que mais utilizo
 
 #### **Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
