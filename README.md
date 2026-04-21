@@ -1,5 +1,9 @@
 # Olá, eu sou o Henrique! 👋
 
+### 🚀 Sobre Mim
+
+Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Tenho foco em construir soluções escaláveis e eficientes, transitando entre o desenvolvimento de APIs robustas e interfaces modernas.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Linhares&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Linhares&layout=compact&theme=radical" alt="Top Langs" />
@@ -7,11 +11,7 @@
 
 ---
 
-### 🚀 Sobre Mim
-
-Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Tenho foco em construir soluções escaláveis e eficientes, transitando entre o desenvolvimento de APIs robustas e interfaces modernas.
-
-### 🛠️ Toolbox Profissional
+### 🛠️ Stacks que mais utilizo
 
 #### **Backend & Database**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
