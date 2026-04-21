@@ -1,6 +1,6 @@
-# Olá, eu sou o Henrique! 👋
+# Olá, eu sou o Henrique! 
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Tenho foco em construir soluções escaláveis e eficientes, transitando entre o desenvolvimento de APIs robustas e interfaces modernas.
 
@@ -11,7 +11,7 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 
 ---
 
-### 🛠️ Stacks que mais utilizo
+### Stacks que mais utilizo
 
 #### **Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,12 +38,12 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 
 ---
 
-### 📈 Contribuições e Atividade
+### Contribuições e Atividade
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Linhares&theme=radical)
 
 ---
 
-### 📫 Vamos nos conectar?
+### Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-linhares-393202270/" target="_blank">
