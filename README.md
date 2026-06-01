@@ -2,11 +2,6 @@
 
 Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Tenho foco em construir soluções escaláveis e eficientes, atuando no desenvolvimento de APIs robustas e interfaces modernas.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Linhares&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Linhares&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
 ---
 
 ### Tecnologias que mais utilizo
