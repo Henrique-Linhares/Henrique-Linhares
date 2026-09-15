@@ -34,12 +34,6 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ---
-
-### Contribuições e Atividade
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Linhares&theme=radical)
-
----
-
 ### Contato
 
 <div align="left">
