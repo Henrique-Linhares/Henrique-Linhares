@@ -44,6 +44,21 @@ Gosto de transformar ideias em produtos funcionais: construo **APIs robustas** e
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+
+### 🚀 Projetos em destaque
+
+#### 🐾 [PetVida](https://github.com/Henrique-Linhares/PetVida)
+
+![Tecnologia1](https://img.shields.io/badge/Tecnologia1-cor?style=flat-square&logo=logo&logoColor=white)
+![Tecnologia2](https://img.shields.io/badge/Tecnologia2-cor?style=flat-square&logo=logo&logoColor=white)
+
+#### 📄 [Godoc](https://github.com/Henrique-Linhares/godoc)
+
+![Tecnologia1](https://img.shields.io/badge/Tecnologia1-cor?style=flat-square&logo=logo&logoColor=white)
+![Tecnologia2](https://img.shields.io/badge/Tecnologia2-cor?style=flat-square&logo=logo&logoColor=white)
+
+---
+
 ### Contato
 
 <div align="left">
