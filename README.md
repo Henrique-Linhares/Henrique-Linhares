@@ -1,7 +1,8 @@
-# Olá, eu sou o Henrique! 
+# Olá, eu sou o Henrique! 👋
 
-Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Tenho foco em construir soluções escaláveis e eficientes, atuando no desenvolvimento de APIs robustas e interfaces modernas.
+Sou **técnico em Análise e Desenvolvimento de Sistemas** e atualmente cursando o 2º ano do **tecnólogo em ADS**.
 
+Gosto de transformar ideias em produtos funcionais: construo **APIs robustas** e **interfaces modernas**, sempre pensando em código limpo, escalabilidade e boa experiência para quem usa
 ---
 
 ### Tecnologias que mais utilizo
@@ -22,6 +23,7 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 
 #### **Database**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **DevOps & Automação**
@@ -29,10 +31,11 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e estou no 2°ano da 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
-#### **Machine Learning**
+#### **IA & Machine Learning**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ---
 ### Contato
 
