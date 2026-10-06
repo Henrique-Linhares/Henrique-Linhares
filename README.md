@@ -22,6 +22,7 @@ Gosto de transformar ideias em produtos funcionais: construo **APIs robustas** e
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 #### **Database**
@@ -49,13 +50,16 @@ Gosto de transformar ideias em produtos funcionais: construo **APIs robustas** e
 
 #### 🐾 [PetVida](https://github.com/Henrique-Linhares/PetVida)
 
-![Tecnologia1](https://img.shields.io/badge/Tecnologia1-cor?style=flat-square&logo=logo&logoColor=white)
-![Tecnologia2](https://img.shields.io/badge/Tecnologia2-cor?style=flat-square&logo=logo&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### 📄 [Godoc](https://github.com/Henrique-Linhares/godoc)
 
-![Tecnologia1](https://img.shields.io/badge/Tecnologia1-cor?style=flat-square&logo=logo&logoColor=white)
-![Tecnologia2](https://img.shields.io/badge/Tecnologia2-cor?style=flat-square&logo=logo&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
