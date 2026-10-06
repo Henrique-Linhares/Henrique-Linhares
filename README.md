@@ -3,6 +3,7 @@
 Sou **técnico em Análise e Desenvolvimento de Sistemas** e atualmente cursando o 2º ano do **tecnólogo em ADS**.
 
 Gosto de transformar ideias em produtos funcionais: construo **APIs robustas** e **interfaces modernas**, sempre pensando em código limpo, escalabilidade e boa experiência para quem usa
+
 ---
 
 ### Tecnologias que mais utilizo
